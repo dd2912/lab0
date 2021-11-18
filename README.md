@@ -1,7 +1,5 @@
 # lab0 - Setting up VS Code
 
-## Purpose
-
-## Part 1
+Watch the video on how to setup VS Code and answer the questions on GradeScope
 
 
